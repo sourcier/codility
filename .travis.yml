@@ -1,0 +1,7 @@
+language: node_js
+
+cache:
+  yarn: true
+
+git:
+  depth: 1
