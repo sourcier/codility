@@ -1,4 +1,4 @@
-import {rotate} from './array'
+import { rotate, oddOccurrences } from './array'
 
 describe('rotate', () => {
     test('rotate([3, 8, 9, 7, 6], 3) to equal [9, 7, 6, 3, 8]', () => {
@@ -15,5 +15,11 @@ describe('rotate', () => {
 
     test('rotate([], 1) to equal []', () => {
         expect(rotate([], 1)).toEqual([])
+    })
+})
+
+describe('oddOccurrences', () => {
+    test('oddOccurrences([9, 3, 9, 3, 9, 7, 9]) to equal 7', () => {
+        expect(oddOccurrences([9, 3, 9, 3, 9, 7, 9])).toEqual(7)
     })
 })
