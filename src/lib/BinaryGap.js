@@ -1,4 +1,4 @@
-export const maxBinaryGap = (number) => {
+export default (number) => {
     const binaryRepresentation = number.toString(2)
     let zeroCount = 0
     let maxCount = 0
