@@ -1,4 +1,4 @@
-function solution(A) {
+export default function solution(A) {
     const sortedArray = A.slice().sort((a, b) => a - b)
     const output = 1
 
@@ -9,5 +9,3 @@ function solution(A) {
 
     return value ? value + 1 : output
 }
-
-export default solution

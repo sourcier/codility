@@ -1,3 +1,3 @@
-export default (x, y, d) => {
-    return Math.ceil(((y-x)/d))
+export default function(X, Y, D) {
+    return Math.ceil(((Y-X)/D))
 }

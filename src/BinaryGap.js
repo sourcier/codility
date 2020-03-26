@@ -1,5 +1,5 @@
-export default (number) => {
-    const binaryRepresentation = number.toString(2)
+export default function solution(N) {
+    const binaryRepresentation = N.toString(2)
     let zeroCount = 0
     let maxCount = 0
 
