@@ -9,3 +9,4 @@ Solutions for codility lessons:
 * [PermMissingElem] (https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
 * [TapeEquilibrium] (https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 * [FrogRiverOne] (https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
+* [MaxCounters] (https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
