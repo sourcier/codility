@@ -10,3 +10,4 @@ Solutions for codility lessons:
 * [TapeEquilibrium] (https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 * [FrogRiverOne] (https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
 * [MaxCounters] (https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
+* [PermCheck] (https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
